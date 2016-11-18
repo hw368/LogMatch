@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<logfile>wtmpx</logfile>
+	<lastpositionfile>last-position.txt</lastpositionfile>
+	<loginlogfile>login.txt</loginlogfile>
+	<numOnce>5</numOnce>
+	<logMatchFile>logrec.txt</logMatchFile>
+	<serverhost>localhost</serverhost>
+	<serverport>8088</serverport>
+	<textlogfile>log.txt</textlogfile>
+	
+</config>
+
+
+
+
+
